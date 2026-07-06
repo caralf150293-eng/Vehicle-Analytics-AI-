@@ -1,0 +1,158 @@
+Manufacturer,Model,Sales in thousands,4-year resale value,Vehicle type,Price in thousands,Engine size,Horsepower,Wheelbase,Width
+Acura        ,Integra          ,16.919,16.36,Passenger,21.5,1.8,140,101.2,67.3
+Acura        ,TL               ,39.384,19.875,Passenger,28.4,3.2,225,108.1,70.3
+Acura        ,CL               ,14.114,18.225,Passenger,.,3.2,225,106.9,70.6
+Acura        ,RL               ,8.588,29.725,Passenger,42,3.5,210,114.6,71.4
+Audi         ,A4               ,20.397,22.255,Passenger,23.99,1.8,150,102.6,68.2
+Audi         ,A6               ,18.78,23.555,Passenger,33.95,2.8,200,108.7,76.1
+Audi         ,A8               ,1.38,39,Passenger,62,4.2,310,113,74
+BMW          ,323i             ,19.747,.,Passenger,26.99,2.5,170,107.3,68.4
+BMW          ,328i             ,9.231,28.675,Passenger,33.4,2.8,193,107.3,68.5
+BMW          ,528i             ,17.527,36.125,Passenger,38.9,2.8,193,111.4,70.9
+Buick        ,Century          ,91.561,12.475,Passenger,21.975,3.1,175,109,72.7
+Buick        ,Regal            ,39.35,13.74,Passenger,25.3,3.8,240,109,72.7
+Buick        ,Park Avenue      ,27.851,20.19,Passenger,31.965,3.8,205,113.8,74.7
+Buick        ,LeSabre          ,83.257,13.36,Passenger,27.885,3.8,205,112.2,73.5
+Cadillac     ,DeVille          ,63.729,22.525,Passenger,39.895,4.6,275,115.3,74.5
+Cadillac     ,Seville          ,15.943,27.1,Passenger,44.475,4.6,275,112.2,75
+Cadillac     ,Eldorado         ,6.536,25.725,Passenger,39.665,4.6,275,108,75.5
+Cadillac     ,Catera           ,11.185,18.225,Passenger,31.01,3,200,107.4,70.3
+Cadillac     ,Escalade         ,14.785,.,Car,46.225,5.7,255,117.5,77
+Chevrolet    ,Cavalier         ,145.519,9.25,Passenger,13.26,2.2,115,104.1,67.9
+Chevrolet    ,Malibu           ,135.126,11.225,Passenger,16.535,3.1,170,107,69.4
+Chevrolet    ,Lumina           ,24.629,10.31,Passenger,18.89,3.1,175,107.5,72.5
+Chevrolet    ,Monte Carlo      ,42.593,11.525,Passenger,19.39,3.4,180,110.5,72.7
+Chevrolet    ,Camaro           ,26.402,13.025,Passenger,24.34,3.8,200,101.1,74.1
+Chevrolet    ,Corvette         ,17.947,36.225,Passenger,45.705,5.7,345,104.5,73.6
+Chevrolet    ,Prizm            ,32.299,9.125,Passenger,13.96,1.8,120,97.1,66.7
+Chevrolet    ,Metro            ,21.855,5.16,Passenger,9.235,1,55,93.1,62.6
+Chevrolet    ,Impala           ,107.995,.,Passenger,18.89,3.4,180,110.5,73
+Chrysler     ,Sebring Coupe    ,7.854,12.36,Passenger,19.84,2.5,163,103.7,69.7
+Chrysler     ,Sebring Conv.    ,32.775,14.18,Passenger,24.495,2.5,168,106,69.2
+Chrysler     ,Concorde         ,31.148,13.725,Passenger,22.245,2.7,200,113,74.4
+Chrysler     ,Cirrus           ,32.306,12.64,Passenger,16.48,2,132,108,71
+Chrysler     ,LHS              ,13.462,17.325,Passenger,28.34,3.5,253,113,74.4
+Chrysler     ,Town & Country   ,53.48,19.54,Car,.,.,.,.,.
+Chrysler     ,300M             ,30.696,.,Passenger,29.185,3.5,253,113,74.4
+Dodge        ,Neon             ,76.034,7.75,Passenger,12.64,2,132,105,74.4
+Dodge        ,Avenger          ,4.734,12.545,Passenger,19.045,2.5,163,103.7,69.1
+Dodge        ,Stratus          ,71.186,10.185,Passenger,20.23,2.5,168,108,71
+Dodge        ,Intrepid         ,88.028,12.275,Passenger,22.505,2.7,202,113,74.7
+Dodge        ,Viper            ,0.916,58.47,Passenger,69.725,8,450,96.2,75.7
+Dodge        ,Ram Pickup       ,227.061,15.06,Car,19.46,5.2,230,138.7,79.3
+Dodge        ,Ram Wagon        ,16.767,15.51,Car,21.315,3.9,175,109.6,78.8
+Dodge        ,Ram Van          ,31.038,13.425,Car,18.575,3.9,175,127.2,78.8
+Dodge        ,Dakota           ,111.313,11.26,Car,16.98,2.5,120,131,71.5
+Dodge        ,Durango          ,101.323,.,Car,26.31,5.2,230,115.7,71.7
+Dodge        ,Caravan          ,181.749,12.025,Car,19.565,2.4,150,113.3,76.8
+Ford         ,Escort           ,70.227,7.425,Passenger,12.07,2,110,98.4,67
+Ford         ,Mustang          ,113.369,12.76,Passenger,21.56,3.8,190,101.3,73.1
+Ford         ,Contour          ,35.068,8.835,Passenger,17.035,2.5,170,106.5,69.1
+Ford         ,Taurus           ,245.815,10.055,Passenger,17.885,3,155,108.5,73
+Ford         ,Focus            ,175.67,.,Passenger,12.315,2,107,103,66.9
+Ford         ,Crown Victoria   ,63.403,14.21,Passenger,22.195,4.6,200,114.7,78.2
+Ford         ,Explorer         ,276.747,16.64,Car,31.93,4,210,111.6,70.2
+Ford         ,Windstar         ,155.787,13.175,Car,21.41,3,150,120.7,76.6
+Ford         ,Expedition       ,125.338,23.575,Car,36.135,4.6,240,119,78.7
+Ford         ,Ranger           ,220.65,7.85,Car,12.05,2.5,119,117.5,69.4
+Ford         ,F-Series         ,540.561,15.075,Car,26.935,4.6,220,138.5,79.1
+Honda        ,Civic            ,199.685,9.85,Passenger,12.885,1.6,106,103.2,67.1
+Honda        ,Accord           ,230.902,13.21,Passenger,15.35,2.3,135,106.9,70.3
+Honda        ,CR-V             ,73.203,17.71,Car,20.55,2,146,103.2,68.9
+Honda        ,Passport         ,12.855,17.525,Car,26.6,3.2,205,106.4,70.4
+Honda        ,Odyssey          ,76.029,19.49,Car,26,3.5,210,118.1,75.6
+Hyundai      ,Accent           ,41.184,5.86,Passenger,9.699,1.5,92,96.1,65.7
+Hyundai      ,Elantra          ,66.692,7.825,Passenger,11.799,2,140,100.4,66.9
+Hyundai      ,Sonata           ,29.45,8.91,Passenger,14.999,2.4,148,106.3,71.6
+Infiniti     ,I30              ,23.713,19.69,Passenger,29.465,3,227,108.3,70.2
+Jaguar       ,S-Type           ,15.467,.,Passenger,42.8,3,240,114.5,71.6
+Jeep         ,Wrangler         ,55.557,13.475,Car,14.46,2.5,120,93.4,66.7
+Jeep         ,Cherokee         ,80.556,13.775,Car,21.62,4,190,101.4,69.4
+Jeep         ,Grand Cherokee   ,157.04,18.81,Car,26.895,4,195,105.9,72.3
+Lexus        ,ES300            ,24.072,26.975,Passenger,31.505,3,210,105.1,70.5
+Lexus        ,GS300            ,12.698,32.075,Passenger,37.805,3,225,110.2,70.9
+Lexus        ,GS400            ,3.334,.,Passenger,46.305,4,300,110.2,70.9
+Lexus        ,LS400            ,6.375,40.375,Passenger,54.005,4,290,112.2,72
+Lexus        ,LX470            ,9.126,.,Car,60.105,4.7,230,112.2,76.4
+Lexus        ,RX300            ,51.238,.,Car,34.605,3,220,103,71.5
+Lincoln      ,Continental      ,13.798,20.525,Passenger,39.08,4.6,275,109,73.6
+Lincoln      ,Town car         ,48.911,21.725,Passenger,43.33,4.6,215,117.7,78.2
+Lincoln      ,Navigator        ,22.925,.,Car,42.66,5.4,300,119,79.9
+Mitsubishi   ,Mirage           ,26.232,8.325,Passenger,13.987,1.8,113,98.4,66.5
+Mitsubishi   ,Eclipse          ,42.541,10.395,Passenger,19.047,2.4,154,100.8,68.9
+Mitsubishi   ,Galant           ,55.616,10.595,Passenger,17.357,2.4,145,103.7,68.5
+Mitsubishi   ,Diamante         ,5.711,16.575,Passenger,24.997,3.5,210,107.1,70.3
+Mitsubishi   ,3000GT           ,0.11,20.94,Passenger,25.45,3,161,97.2,72.4
+Mitsubishi   ,Montero          ,11.337,19.125,Car,31.807,3.5,200,107.3,69.9
+Mitsubishi   ,Montero Sport    ,39.348,13.88,Car,22.527,3,173,107.3,66.7
+Mercury      ,Mystique         ,14.351,8.8,Passenger,16.24,2,125,106.5,69.1
+Mercury      ,Cougar           ,26.529,13.89,Passenger,16.54,2,125,106.4,69.6
+Mercury      ,Sable            ,67.956,11.03,Passenger,19.035,3,153,108.5,73
+Mercury      ,Grand Marquis    ,81.174,14.875,Passenger,22.605,4.6,200,114.7,78.2
+Mercury      ,Mountaineer      ,27.609,20.43,Car,27.56,4,210,111.6,70.2
+Mercury      ,Villager         ,20.38,14.795,Car,22.51,3.3,170,112.2,74.9
+Mercedes-Benz,C-Class          ,18.392,26.05,Passenger,31.75,2.3,185,105.9,67.7
+Mercedes-Benz,E-Class          ,27.602,41.45,Passenger,49.9,3.2,221,111.5,70.8
+Mercedes-Benz,S-Class          ,16.774,50.375,Passenger,69.7,4.3,275,121.5,73.1
+Mercedes-Benz,SL-Class         ,3.311,58.6,Passenger,82.6,5,302,99,71.3
+Mercedes-Benz,SLK              ,7.998,.,Passenger,38.9,2.3,190,94.5,67.5
+Mercedes-Benz,SLK230           ,1.526,.,Passenger,41,2.3,185,94.5,67.5
+Mercedes-Benz,CLK Coupe        ,11.592,.,Passenger,41.6,3.2,215,105.9,67.8
+Mercedes-Benz,CL500            ,0.954,.,Passenger,85.5,5,302,113.6,73.1
+Mercedes-Benz,M-Class          ,28.976,.,Car,35.3,3.2,215,111,72.2
+Nissan       ,Sentra           ,42.643,8.45,Passenger,13.499,1.8,126,99.8,67.3
+Nissan       ,Altima           ,88.094,11.295,Passenger,20.39,2.4,155,103.1,69.1
+Nissan       ,Maxima           ,79.853,15.125,Passenger,26.249,3,222,108.3,70.3
+Nissan       ,Quest            ,27.308,15.38,Car,26.399,3.3,170,112.2,74.9
+Nissan       ,Pathfinder       ,42.574,17.81,Car,29.299,3.3,170,106.3,71.7
+Nissan       ,Xterra           ,54.158,.,Car,22.799,3.3,170,104.3,70.4
+Nissan       ,Frontier         ,65.005,.,Car,17.89,3.3,170,116.1,66.5
+Oldsmobile   ,Cutlass          ,1.112,11.24,Passenger,18.145,3.1,150,107,69.4
+Oldsmobile   ,Intrigue         ,38.554,.,Passenger,24.15,3.5,215,109,73.6
+Oldsmobile   ,Alero            ,80.255,.,Passenger,18.27,2.4,150,107,70.1
+Oldsmobile   ,Aurora           ,14.69,19.89,Passenger,36.229,4,250,113.8,74.4
+Oldsmobile   ,Bravada          ,20.017,19.925,Car,31.598,4.3,190,107,67.8
+Oldsmobile   ,Silhouette       ,24.361,15.24,Car,25.345,3.4,185,120,72.2
+Plymouth     ,Neon             ,32.734,7.75,Passenger,12.64,2,132,105,74.4
+Plymouth     ,Breeze           ,5.24,9.8,Passenger,16.08,2,132,108,71
+Plymouth     ,Voyager          ,24.155,12.025,Car,18.85,2.4,150,113.3,76.8
+Plymouth     ,Prowler          ,1.872,.,Passenger,43,3.5,253,113.3,76.3
+Pontiac      ,Sunfire          ,51.645,13.79,Passenger,21.61,2.4,150,104.1,68.4
+Pontiac      ,Grand Am         ,131.097,10.29,Passenger,19.72,3.4,175,107,70.4
+Pontiac      ,Firebird         ,19.911,17.805,Passenger,25.31,3.8,200,101.1,74.5
+Pontiac      ,Grand Prix       ,92.364,14.01,Passenger,21.665,3.8,195,110.5,72.7
+Pontiac      ,Bonneville       ,35.945,13.225,Passenger,23.755,3.8,205,112.2,72.6
+Pontiac      ,Montana          ,39.572,.,Car,25.635,3.4,185,120,72.7
+Porsche      ,Boxter           ,8.982,41.25,Passenger,41.43,2.7,217,95.2,70.1
+Porsche      ,Carrera Coupe    ,1.28,60.625,Passenger,71.02,3.4,300,92.6,69.5
+Porsche      ,Carrera Cabriolet,1.866,67.55,Passenger,74.97,3.4,300,92.6,69.5
+Saab         ,5-Sep,9.191,.,Passenger,33.12,2.3,170,106.4,70.6
+Saab         ,3-Sep,12.115,.,Passenger,26.1,2,185,102.6,67.4
+Saturn       ,SL               ,80.62,9.2,Passenger,10.685,1.9,100,102.4,66.4
+Saturn       ,SC               ,24.546,10.59,Passenger,12.535,1.9,100,102.4,66.4
+Saturn       ,SW               ,5.223,10.79,Passenger,14.29,1.9,124,102.4,66.4
+Saturn       ,LW               ,8.472,.,Passenger,18.835,2.2,137,106.5,69
+Saturn       ,LS               ,49.989,.,Passenger,15.01,2.2,137,106.5,69
+Subaru       ,Outback          ,47.107,.,Passenger,22.695,2.5,165,103.5,67.5
+Subaru       ,Forester         ,33.028,.,Car,20.095,2.5,165,99.4,68.3
+Toyota       ,Corolla          ,142.535,10.025,Passenger,13.108,1.8,120,97,66.7
+Toyota       ,Camry            ,247.994,13.245,Passenger,17.518,2.2,133,105.2,70.1
+Toyota       ,Avalon           ,63.849,18.14,Passenger,25.545,3,210,107.1,71.7
+Toyota       ,Celica           ,33.269,15.445,Passenger,16.875,1.8,140,102.4,68.3
+Toyota       ,Tacoma           ,84.087,9.575,Car,11.528,2.4,142,103.3,66.5
+Toyota       ,Sienna           ,65.119,.,Car,22.368,3,194,114.2,73.4
+Toyota       ,RAV4             ,25.106,13.325,Car,16.888,2,127,94.9,66.7
+Toyota       ,4Runner          ,68.411,19.425,Car,22.288,2.7,150,105.3,66.5
+Toyota       ,Land Cruiser     ,9.835,34.08,Car,51.728,4.7,230,112.2,76.4
+Volkswagen   ,Golf             ,9.761,11.425,Passenger,14.9,2,115,98.9,68.3
+Volkswagen   ,Jetta            ,83.721,13.24,Passenger,16.7,2,115,98.9,68.3
+Volkswagen   ,Passat           ,51.102,16.725,Passenger,21.2,1.8,150,106.4,68.5
+Volkswagen   ,Cabrio           ,9.569,16.575,Passenger,19.99,2,115,97.4,66.7
+Volkswagen   ,GTI              ,5.596,13.76,Passenger,17.5,2,115,98.9,68.3
+Volkswagen   ,Beetle           ,49.463,.,Passenger,15.9,2,115,98.9,67.9
+Volvo        ,S40              ,16.957,.,Passenger,23.4,1.9,160,100.5,67.6
+Volvo        ,V40              ,3.545,.,Passenger,24.4,1.9,160,100.5,67.6
+Volvo        ,S70              ,15.245,.,Passenger,27.5,2.4,168,104.9,69.3
+Volvo        ,V70              ,17.531,.,Passenger,28.8,2.4,168,104.9,69.3
+Volvo        ,C70              ,3.493,.,Passenger,45.5,2.3,236,104.9,71.5
+Volvo        ,S80              ,18.969,.,Passenger,36,2.9,201,109.9,72.1
