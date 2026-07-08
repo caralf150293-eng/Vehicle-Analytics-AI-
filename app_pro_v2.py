@@ -23,11 +23,17 @@ st.set_page_config(
 # RUTAS
 # ==========================================
 
-ruta_proyecto = "/content/drive/MyDrive/Proyecto_Final_Automoviles"
+#ruta_proyecto = "/content/drive/MyDrive/Proyecto_Final_Automoviles"
 
-ruta_csv = f"{ruta_proyecto}/data/Car_sales-selected-columns.csv"
-ruta_logo = f"{ruta_proyecto}/images/logo.png"
-ruta_banner = f"{ruta_proyecto}/images/banner.png"
+#ruta_csv = f"{ruta_proyecto}/data/Car_sales-selected-columns.csv"
+#ruta_logo = f"{ruta_proyecto}/images/logo.png"
+#ruta_banner = f"{ruta_proyecto}/images/banner.png"
+
+ruta_csv = "datos/Car_sales-selected-columns.csv"
+
+ruta_logo = "imagenes/logo.png"
+
+ruta_banner = "imagenes/banner.png"
 
 # ==========================================
 # CARGA DE DATOS
