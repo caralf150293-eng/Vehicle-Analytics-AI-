@@ -113,3 +113,9 @@ Vehicle-Analytics-AI
 **Carlos Alfredo González Hernández**
 
 Aplicación desarrollada con Python, Streamlit y Scikit-learn como proyecto de análisis de datos y Machine Learning.
+
+# 🌐 Aplicación en línea
+
+Puedes probar Vehicle Analytics AI aquí:
+
+https://tu-app.streamlit.app
