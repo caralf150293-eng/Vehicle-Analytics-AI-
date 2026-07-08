@@ -118,4 +118,4 @@ Aplicación desarrollada con Python, Streamlit y Scikit-learn como proyecto de a
 
 Puedes probar Vehicle Analytics AI aquí:
 
-https://tu-app.streamlit.app
+https://vehicle-analytics-ai.streamlit.app/
