@@ -29,12 +29,11 @@ st.set_page_config(
 #ruta_logo = f"{ruta_proyecto}/images/logo.png"
 #ruta_banner = f"{ruta_proyecto}/images/banner.png"
 
-ruta_csv = "datos/Car_sales-selected-columns.csv"
+ruta_csv = "data/Car_sales-selected-columns.csv"
 
-ruta_logo = "imagenes/logo.png"
+ruta_logo = "images/logo.png"
 
-ruta_banner = "imagenes/banner.png"
-
+ruta_banner = "images/banner.png"
 # ==========================================
 # CARGA DE DATOS
 # ==========================================
